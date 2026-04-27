@@ -3,7 +3,7 @@
 Name: Austin Aspenwall  
 Date: 3/20/2026
 
-**Instructions:** For each question, record your answer by replacing `TODO` with
+**Instructions:** For each question, record your answer by replacing `` with
 the letter of the single best response (a, b, c, or d). 
 
 ---

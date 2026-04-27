@@ -4,7 +4,7 @@ Name: Austin Aspenwall
 Date: 03/20/2025
 
 After completing the practice test, please reflect on your experience by
-answering the questions below. Replace each `TODO` with a thoughtful response
+answering the questions below. Replace each `` with a thoughtful response
 (a few sentences each). Your responses help you consolidate what you learned
 and identify areas to review before the real midterm.
 
@@ -98,7 +98,7 @@ for n in range(1, 11):
 
 **Your Answer:**
 
-TODO
+results = [n * 2 for n in range (1,11) if n % 3 == 0]
 
 ---
 
